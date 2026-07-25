@@ -1,0 +1,11 @@
+# What I did today
+# Today I take a class from youtube for argoCD
+# 30 min englisg practice
+# 30 min git practice
+
+
+# Tomorrow's Task
+# 1 hours english                   06:00 am - 07:00 am
+# 4 hours kubernetes practice       07:00 pm - 11:00 am
+# 4 hours Terraform practice        12:00 pm - 04:00 pm
+# 6 hours Jenkin & ArgoCD practice  05:00 pm - 11:00 pm
